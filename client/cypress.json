@@ -1,0 +1,4 @@
+{
+    "bseURL": "http://localhost:3000/",
+    "ignoreTestFiles": "*/examples/**"
+}
